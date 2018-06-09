@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
-  s.source = { :git => "https://github.com/mapbox/mapbox-scenekit-ios.git", :tag => "v#{s.version.to_s}" }
+  s.source = { :git => "https://github.com/mapbox/mapbox-scenekit.git", :tag => "v#{s.version.to_s}" }
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
